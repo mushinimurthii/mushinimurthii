@@ -2,7 +2,7 @@
 - 👀 I’m interested in collaborative platform
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Project Management
-- 📫 How to reach me Twitter Mushini...
+- 📫 How to reach me Twitter Mushini
 
 <!---
 mushinimurthii/mushinimurthii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
